@@ -1,0 +1,6 @@
+C:\Users\Danil\Desktop\Для работы\ovCompare\ovCompare\bin\Debug\ovCompare.exe.config
+C:\Users\Danil\Desktop\Для работы\ovCompare\ovCompare\bin\Debug\ovCompare.exe
+C:\Users\Danil\Desktop\Для работы\ovCompare\ovCompare\bin\Debug\ovCompare.pdb
+C:\Users\Danil\Desktop\Для работы\ovCompare\ovCompare\obj\Debug\ovCompare.csprojResolveAssemblyReference.cache
+C:\Users\Danil\Desktop\Для работы\ovCompare\ovCompare\obj\Debug\ovCompare.exe
+C:\Users\Danil\Desktop\Для работы\ovCompare\ovCompare\obj\Debug\ovCompare.pdb
